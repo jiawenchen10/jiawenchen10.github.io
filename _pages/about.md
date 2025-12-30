@@ -11,13 +11,13 @@ redirect_from:
 
 Short Bio
 ======
-Hi everyone. I'm a 2nd year PhD student at CCCS Lab, [School of Mathematics](https://math.seu.edu.cn/main.htm/), Southeast University, Nanjing, China. I feel very fortunate to be advised by Prof. [Wenwu Yu](https://scholar.google.com/citations?user=I7XxngUAAAAJ&hl=en) and Prof. [Duxin Chen](https://scholar.google.com/citations?hl=zh-CN&user=xSquFTQAAAAJ).  I received my Bachelor's degree in Information and Computing Science in 2022 and continued my graduate studies at the same institution. My research interests lie at the intersection of complex networks, complex systems, graph representation learning, and higher-order neural networks. I am particularly interested in developing machine learning models, LLM for GNN modeling and higher-order networks. </span> You can find my <span style="color:blue">[Google Scholar](https://scholar.google.com.hk/citations?user=eyWjjeAAAAAJ)</span> here, <span style="color:blue">[Github Site](https://github.com/jiawechen)</span> here.
+Hi everyone. I'm a 2nd year PhD student at CCCS Lab, [School of Mathematics](https://math.seu.edu.cn/main.htm/), Southeast University, Nanjing, China. I feel very fortunate to be advised by Prof. [Wenwu Yu](https://scholar.google.com/citations?user=I7XxngUAAAAJ&hl=en) and Prof. [Duxin Chen](https://scholar.google.com/citations?hl=zh-CN&user=xSquFTQAAAAJ).  I received my Bachelor's degree in Information and Computing Science in 2022 and continued my graduate studies at the same institution. My research interests lie at the intersection of complex networks, complex systems, graph representation learning, and higher-order neural networks. I am particularly interested in developing machine learning models, LLM for GNN modeling and higher-order networks.  You can find my <span style="color:blue">[Google Scholar](https://scholar.google.com.hk/citations?user=eyWjjeAAAAAJ)</span> here, <span style="color:blue">[Github Site](https://github.com/jiawechen)</span> here.
 **Email Contact**: chenjiawen@seu.edu.cn, chenjiawen1210@gmail.com<br>
 
 
 **Background**
 -----
-- Phd at University of New South Wales (Sept 2024 - Jun 2028)
+- Phd at School of Mathematics, Southeast University, Nanjing, China (Sept 2024 - Jun 2028)
   
 - Project Intern, specializing and interested in Identification and Structure Inference of Communication Signal Networks. Huawei Research, Nanjing <br>(Apr 2024 – July 2024)
 
