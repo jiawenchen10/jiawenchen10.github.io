@@ -13,9 +13,9 @@ title                    : "Jiawen Chen 's Homepage"
 title_separator          : "-"
 name                     : &name "Jiawen Chen"
 description              : PhD student at Southeast University, working on LLMs, Graph Neural Networks, and their applications. "
-url                      : https://jiawenchen.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://jiawenchen10.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jiawenchen10/jiawenchen10.github.io"
+repository               : "JiawenChen99/JiawenChen99.github.io"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
